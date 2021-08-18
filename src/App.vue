@@ -1,15 +1,15 @@
 <template>
   <div id="app">
     <Header />
-    <Form />
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
-import Form from './components/Form.vue'
+//import Form from './components/Form.vue'
 export default {
-  components: {Header, Form}
+  components: {Header}
 
 }
 </script>

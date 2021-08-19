@@ -1,7 +1,7 @@
 # Teste Front-End Criarenet &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 > Additional information or tag line
 
-Este projeto é uma aplicação que contém um formulário que envia todos os dados preenchidos diretamente para o LocalStorage, contendo também uma outra página que faz a listagem de cada um desses dados e também possibilidade a edição e exclusão dos dados cadastrados. 
+Este projeto é uma aplicação que contém um formulário que envia todos os dados preenchidos diretamente para o LocalStorage, contendo também uma outra página que faz a listagem de cada um desses dados e também possibilita a edição e exclusão dos dados cadastrados. 
 
 ## Installing / Getting started
 

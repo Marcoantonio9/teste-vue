@@ -5,9 +5,6 @@ Este projeto é uma aplicação que contém um formulário que envia todos os da
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
-
 ```shell
 npm install
 npm run serve
@@ -25,9 +22,6 @@ Node JS.
 
 
 ### Setting up Dev
-
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
 
 ```shell
 git clone https://github.com/Marcoantonio9/teste-vue.git

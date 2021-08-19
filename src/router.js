@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Form from './components/Form'
+import Form from './pages/Form'
 import ListaUsuarios from './pages/ListarUsuarios.vue'
 
 

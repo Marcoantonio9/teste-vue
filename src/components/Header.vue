@@ -16,19 +16,14 @@
 export default {
   data(){
     return{
-      nomeRotas: ''
+      
     }
   },
   methods: {
     voltar(){
-
       this.$router.push({path: '/'})
     }
   },
-  created(){
-
-    console.log(this.nomeRotas)
-  }
 }
 </script>
 
